@@ -1,0 +1,18 @@
+Graham pen 1
+Graham pen 1
+Hobbs pen 2
+Lecter paper 10
+Graham aspirin 2
+Hobbs knife 1
+Hobbs pen 1
+Lecter knife 2
+Lecter knife 2
+Graham pen 2
+Hobbs patch 2
+Lecter paper 1
+Hobbs knife 1
+Graham aspirin 4
+Lecter pencil 2
+Lecter pencil 2
+
+{Graham={aspirin=6, pen=4}, Hobbs={knife=2, patch=2, pen=3}, Lecter={knife=4, paper=11, pencil=2}}
